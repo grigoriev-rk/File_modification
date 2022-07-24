@@ -1,6 +1,5 @@
 #HW 'Opening, reading and writing a file'
 
-# Не понятна очередность вывода блюд 
 from pprint import pprint
 
 def dict_cookbook_func(cookbook):                       # Func for task 1
